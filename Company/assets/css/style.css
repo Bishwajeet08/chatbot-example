@@ -425,8 +425,7 @@ li.fadeInAmate{background: url(https://a-cf65.gskstatic.com/content/dam/campaign
 .download_btn {
     margin: 0px 0 20px 0;
     padding: 10px;
-    background: url(../images/transparent.png) 0 0 repeat;
-	position:relative;
+    position:relative;
 }
 
 .download_btn a {
